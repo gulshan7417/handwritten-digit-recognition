@@ -19,11 +19,6 @@ This structure is known as a feedforward architecture because the connections in
 ![Small Labelled Neural Network](http://i.imgur.com/HdfentB.png)
 
 
-#### Summary of Sequential model
-
-
-![Summary](https://github.com/aakashjhawar/handwritten-digit-recognition/blob/master/assets/model/model_summary.png)
-
 ## Getting Started
 
 How to use
@@ -44,12 +39,9 @@ python3 load_model.py assets/images/1a.jpg
  
 ## Prerequisites
 
-- Python 3.5
 - OpenCV
 ```
 sudo apt-get install python-opencv
 ``` 
-## Result:
-Following image is the prediction of the model.
-![Result of CNN model](https://github.com/aakashjhawar/Handwritten-Digit-Recognition/blob/master/result.png)
+
 
